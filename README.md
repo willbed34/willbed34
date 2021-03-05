@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name's Will Bednarz and I'm a sophomore at Brown University studying computer science.
+
+Feel free to reach out to me at william_bednarz@brown.edu!
 <!--
 **willbed34/willbed34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
