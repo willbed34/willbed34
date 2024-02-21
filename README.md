@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name's Will Bednarz and I'm a sophomore at Brown University studying computer science.
-Right now I'm working on a few mobile development projects.
+My name's Will Bednarz and I'm working towards my Masters Degree at Brown University studying computer science.
+Right now I'm working on a few projects, some of which are towards automated content creation via webscraping.
 
 Feel free to reach out to me at william_bednarz@brown.edu!
 <!--
