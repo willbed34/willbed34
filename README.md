@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name's Will Bednarz and I'm working towards my Masters Degree at Brown University studying computer science.
-Right now I'm working on a few projects, some of which are towards automated content creation via webscraping.
+Right now I'm working on a few projects, in areas such as LLMs, DL, webscraping, and sports betting.
 
 Feel free to reach out to me at william_bednarz@brown.edu!
 <!--
